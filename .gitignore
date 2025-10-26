@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Assets gerados (manter as imagens)
+# assets/*.png
+# assets/*.jpg
+# assets/*.pdf
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
